@@ -1,0 +1,38 @@
+body {
+  background-color: darkred;
+  width: 1200px;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: cursive;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  color: gold;
+}
+
+h3 {
+  color: silver;
+}
+
+li {
+  font-size: 1.5em;
+  color: white;
+  font-weight: 600;
+  font-family: fantasy;
+}
+
+img {
+  width: 600px;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+hr {
+  margin-bottom: 40px;
+}
